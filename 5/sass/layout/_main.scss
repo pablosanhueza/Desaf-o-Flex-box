@@ -1,0 +1,24 @@
+.container {
+  width: 1000px;
+  height: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  &__item {
+
+  }
+  &__image {
+    width: 230px;
+    height: 230px;
+  }
+  &__image1{
+  width: 230px;
+  }
+  &__image--emphasis {
+    width: 958px;
+    height: 200px;
+  }
+
+
+}

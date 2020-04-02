@@ -1,0 +1,29 @@
+.main {
+  height: 1000px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.main__container {
+  background-color: white;
+  font-family: monospace;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 100px;
+  height: 60px;
+  width: 900px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: flex-end;
+}
+.main__item {
+  width: 150px;
+  background-color: #51D1F6;
+  border: 1px solid black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*# sourceMappingURL=styles.css.map */
